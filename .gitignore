@@ -1,0 +1,46 @@
+# Dépendances
+node_modules/
+
+# Build
+dist/
+dist-ssr/
+build/
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Variables d'environnement locales
+.env
+.env.*
+!.env.example
+*.local
+
+# Tests et couverture
+coverage/
+
+# Éditeurs
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Système
+Thumbs.db
+desktop.ini
+
+# Caches d'outils
+.eslintcache
+.oxlintcache
+.cache/

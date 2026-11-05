@@ -1,0 +1,25 @@
+ 
+.liA{background-color: rgba(200, 191, 181, 0.464);}
+.liB{background-color: rgb(200, 191, 181);}
+
+.imgUrl{height: 100px;}
+a{width: 100px;}
+ .btnLi {
+      padding: 12px 18px;
+      margin: 8px;
+      flex-shrink: 0; 
+      font-weight: 600;
+      color: #fff;
+      background: #83e546b6;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      box-shadow: 0 4px 12px rgba(79, 70, 229, 0.3);
+    }
+
+    /* .btnLi:hover {
+      background: #4338ca;
+      transform: translateY(-2px);
+      box-shadow: 0 8px 20px rgba(79, 70, 229, 0.4);
+    } */
+  

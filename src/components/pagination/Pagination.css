@@ -1,0 +1,23 @@
+.paginationBlock {
+  display: flex;
+  justify-content: center;
+  list-style: none; /* remove list bullets */
+  padding: 0px;
+}
+
+button.pagination {
+  /* let links fill the list item */
+  padding: 8px 12px;
+  text-decoration: none;
+  border: 1px solid gray;
+  color: black;  
+  margin: 0 4px;
+  margin-bottom: 20Px;
+  border-radius: 5px; /* add rounded borders */
+}
+
+button.true{opacity: 50%;}
+p.PageInfo{
+    margin-bottom: 10px;
+    color: rgb(239, 123, 123);
+}
