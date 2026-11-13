@@ -44,3 +44,6 @@ desktop.ini
 .eslintcache
 .oxlintcache
 .cache/
+
+.vercel
+.env*
